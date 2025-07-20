@@ -11,5 +11,5 @@ Android Version: 8.0 (Oreo)+
 1. Download the "VR-Presentation-OER.apk" file
 2. Move the .apk file onto the target smartphone
 3. Install the .apk on the target smartphone
-   a. You may encounter issues depending on your operating system: some will attempt to block the installation, which will need to manually overriden by you
+   a. You may encounter issues depending on your operating system: some will attempt to block the installation, which will need to manually overridden by you
 4. Launch the app, start the VR environment, insert the smartphone into your headset, and enjoy!
